@@ -1,5 +1,5 @@
 const config = {
-	apiUrl: 'https://osurvivor.fr',
+	apiUrl: 'http://localhost:3001',
 	apiVersion: '/v1/api',
 };
 

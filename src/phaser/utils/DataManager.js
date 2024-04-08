@@ -8,7 +8,7 @@ export default class DataManager {
 	 */
 	constructor(scene) {
 		this.scene = scene;
-		this.baseUrl = 'https://osurvivor.fr/v1/api/';
+		this.baseUrl = 'http://localhost:3001';
 	}
 
 	/**
